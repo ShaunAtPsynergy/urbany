@@ -1,0 +1,8 @@
+{
+  "name": "Urbany",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "6dbe4487"
+}
